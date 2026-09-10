@@ -140,7 +140,7 @@ ls -lh /var/www/html/image.html /var/www/html/lab_photo.jpg
 |---------|---------|
 | Case Identifier | SBT-DF203-Lab2-IbrahimDisehGarba |
 | Analyst | Ibrahim Diseh Garba |
-| Date Started | `<YYYY-MM-DD HH:MM:SS>` |
+| Date Started | `<2026-9-10 10:10:15>` |
 | Evidence Files | image_traffic.pcapng, image.html, lab_photo.jpg |
 | Acquisition Method | Apache2 on localhost |
 | Original Hashes | Recorded prior to analysis |
